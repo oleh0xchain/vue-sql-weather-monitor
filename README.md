@@ -71,8 +71,8 @@ Make sure you have Node.js and npm installed. Then run:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/weather-dashboard.git
-cd weather-dashboard
+git clone https://github.com/yourusername/vue-sql-weather-monitor.git
+cd vue-sql-weather-monitor.git
 
 # Set permissions if needed
 sudo chown -R $(whoami) node_modules
